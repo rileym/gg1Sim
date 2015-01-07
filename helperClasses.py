@@ -201,7 +201,7 @@ class NormalGenerator(object):
         if self.current == 0:
             return self.last
         
-        return self.buffer[self.current-1]
+        return self.buffer[self.current-2]
         
     
     

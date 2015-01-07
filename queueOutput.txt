@@ -1,0 +1,25 @@
+
+Iterations: 20000
+Total Time: 1085.15 seconds
+
+--------------------  Results  --------------------
+--------- PART A: Poisson Arrival Process --------- 
+
+L estimate = 15.98
+
+--------- PART B: Weibull Arrivals --------- 
+
+L estimate = 9.15
+
+--------- PART C: Weibull Arrivals --------- 
+
+L estimate = 30.50
+
+--------- PART D.i: Auto-Correlated Arrivals ---------
+
+L estimate = 84.56
+
+--------- PART D.ii: Auto-Correlated Arrivals ---------
+
+L estimate = 86.80
+

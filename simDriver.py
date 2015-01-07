@@ -3,7 +3,7 @@ import GG1queue
 import sys
 import time
 
-N = 26000
+N = 20000 # 26000
 termTime = 1000
 
 
