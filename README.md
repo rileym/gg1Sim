@@ -4,7 +4,9 @@ This is a g/g/1 queue simulation I wrote for a simulation class (See http://en.w
 
 Specifics of the queue simulation:
 
-We were to estimate L (the average queue length over the fixed time time period) for a g/g/1 queue with service times distributed as the sum of two independent uniform random varaibles (distribution looks like a triange) and with each of the following inter-arrival time distributions: exponetial, weibul (2x: once for each of two different parameters), and auto-corrlated normal random variables (2x: once for postive and once for negative correlation. The formal model behind this simulation is a "generalized semi-markov process" (GSMP) which is a stocastic process description of discrete event system. 
+We were to estimate L (the average queue length over the fixed time time period) for a g/g/1 queue with service times distributed as the sum of two independent uniform random varaibles (distribution looks like a triange) and with each of the following inter-arrival time distributions: exponetial, weibul (2x: once for each of two different parameters), and auto-corrlated normal random variables (2x: once for postive and once for negative correlation). If I remeber correctly, the parameters are such that all the distributions have the same mean times, but the differences in the shape of these distributions leads to very different L values, i.e., the performance metric is sensitive to the assumptions made about input distributions.
+
+The formal model behind this simulation is a "generalized semi-markov process" (GSMP) which is a stocastic process description of discrete event system, if you are interested.
 
 
 
