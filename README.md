@@ -1,6 +1,6 @@
 ## G/G/1 Simulation: Does the Inter-Arrival Distribution Affect Average Queue Length? 
 
-  This is a [G/G/1 queue](http://en.wikipedia.org/wiki/G/G/1_queue) simulation I wrote for a simulation class. The purpose of the exercise is to show how the choice of or assumptions about “input distributions” may significantly influence the metrics of interest. In our particular case that metric is long-run mean queue length, `L`, and the input distribution is the distribution of inter-arrival times. See the [below](#specifics-of-the-queue-simulation:) for more detail.
+  This is a [G/G/1 queue](http://en.wikipedia.org/wiki/G/G/1_queue) simulation I wrote for a simulation class. The purpose of the exercise is to show how the choice of or assumptions about “input distributions” may significantly influence the metrics of interest. In our particular case that metric is long-run mean queue length, `L`, and the input distribution is the distribution of inter-arrival times. See the [below](#specifics-of-the-queue-simulation) for more detail.
 
 I had learned basic python the week before this assignment and so took the exercise as an opportunity to further familiarize myself with python and object oriented python. Note too that **we were not allowed to use any high level packages or routines in this assignment, e.g., no numpy, no scipy, and had to generate our own random variables**.
 
