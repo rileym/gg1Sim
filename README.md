@@ -6,6 +6,8 @@ I had learned basic python the week before this assignment and so took the exerc
 
 The simulation driver is `simDriver.py`.
 
+______________________________________________________________________
+
 ####Simulation Details
 
 * We are trying to estimate the average queue length, `L`, for five different G/G/1 queues.
