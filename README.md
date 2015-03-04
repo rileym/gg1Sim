@@ -4,6 +4,8 @@
 
 I had learned basic python the week before this assignment and so took the exercise as an opportunity to further familiarize myself with python and object oriented python. Note too that **we were not allowed to use any high level packages or routines** in this assignment, e.g., no numpy, no scipy, and we had to generate our own random variables.
 
+The simulation driver is `simDriver.py`.
+
 ####Simulation Details
 
 * We are trying to estimate the average queue length, `L`, for five different G/G/1 queues.
