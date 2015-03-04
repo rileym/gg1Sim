@@ -19,5 +19,6 @@ ______________________________________________________________________
 * The parameters are calibrated so that all five inter-arrival distributions have the same mean. Even so, — and demonstrating this is the point of the exercise —, the differences in the shape of these distributions or their non-independence leads to very different estimates of `L`. That is, our metric of interest *is* sensitive to the choice of input distribution, so one ought to choose wisely. 
 * The formal model behind this simulation is a "generalized semi-markov process" (GSMP) which is a stochastic process description of a discrete event system.
 
+______________________________________________________________________
 
 
